@@ -17,3 +17,6 @@ The project used excel and python. The following libraries were usd in python:
 - Matplotlib
 - Scipy
 - Sklearn 
+
+## Tableau 
+Please view the interactive storyboard [here](https://public.tableau.com/app/profile/ruth.agnew3351/viz/EmployeeAttrition_FinalProject/LinearRegression) 
