@@ -1,4 +1,4 @@
-# EmployeeAttrition
+# Employee Attrition: Python and Machine Learning project
 
 This was a data analytics project conducted in python using machine learning techniques as part of the CareerFoundry Data Analytics qualification. The project was found on Kaggle. 
 
